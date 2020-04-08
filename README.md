@@ -15,7 +15,7 @@ This tool is written in bash. It gathers all the subdomains of a domain by looki
 
 
 ## Reference 
-1. [Nahamsec](https://github.com/nahamsec/crtndstry)
+1. [crtndstry](https://github.com/nahamsec/crtndstry)
 
-## Focused Audience 
+## Target Audience 
 Web Application Security Researchers
